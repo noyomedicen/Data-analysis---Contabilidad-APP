@@ -1,2 +1,2 @@
 # Data-analysis---Contabilidad-APP
-This is a repository of a data analysis technical test, for a fictitious accounting app.
+This is a repository of a data analysis for a accounting app.
